@@ -1,0 +1,251 @@
+/* *{  background-color: #cfdae6;}  */
+.trip{
+    background-color: #cfdae6;
+    padding: 20px;
+    margin-bottom: 20px;
+  justify-content: center;
+height: 600px;
+
+
+
+align-items: center;}
+.img_trip{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+align-items: center;
+/* padding-top: 16px; */
+margin-top: 16px;
+ 
+}
+
+h1,p{
+    text-align: center;
+    font-size: 25px;
+}
+.input {
+    margin: 0 auto;
+    display: block;
+    height: 56px;
+    border-radius: 50px;
+    width: 376px;
+     padding-left: 10px;}
+.search {
+  margin: 0 auto;
+  display: block;
+  height: 56px;
+  border-radius: 50px;
+  width: 376px;
+   padding-left: 10px;
+
+
+}
+
+
+ 
+h1{
+    text-align: center;
+    justify-content: center;
+   /* font-family: sans-serif; */
+   /* font-size: 10ch; */
+  }
+  .box{
+    height: 500px;
+    max-width: 1000px;
+    min-width: 500px;
+    margin: 0 auto;
+    padding: 60px;
+    display: flex; 
+    justify-content: center;
+    
+      
+        
+        
+      }
+/* .card{
+    display: block; 
+    justify-content: center;
+margin: 0 auto;
+height: 430px;
+width: 600px;} */
+
+  .logo_trip{
+    height: 60px;
+    width: 200px;
+  }
+.navbar{
+height: 90px;
+width: 98%;
+background-color: #fff;
+position: fixed;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 12px;
+display: flex;
+padding-right: 20px;
+padding-left: 20px;
+top: 0px;
+box-shadow: 0px 1px 2px #ccc;
+flex-wrap: wrap;
+z-index: 1;
+}
+
+li {
+
+    display: inline-block;
+  
+    color: black;
+  
+    padding: 10px;
+  
+    margin: 10px;  cursor: pointer;
+
+}
+li > h3 >a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+.navbar + ul {
+
+    position: relative;
+  
+  }
+
+.top_heading {
+
+margin-top: 105px;
+font-style: italic;
+color: rgb(27, 133, 175);
+/* font: size 400px;  */
+font-weight: 400;
+font-display: 900px;
+font-size: 10ch;
+flex-wrap: wrap;
+
+}
+.second_heading{
+  margin-top: 30px;
+  font-style: italic;
+  color: rgb(27, 133, 175);
+  /* font: size 400px;  */
+  font-weight: 400;
+  font-display: 900px;
+  font-size: 8ch;
+
+
+
+}
+
+
+
+
+li:hover {
+
+  
+
+  border-bottom-width: 3px;
+
+  border-bottom-color: green;
+
+  border-bottom-style: solid;
+}
+.icon_color > li > h3 > i{
+color: blueviolet;
+  
+}
+.karachi_card {
+height: 350px;
+width: 300px;
+border-radius: 8px;
+border: 1px solid #ccc;
+/* background-color: aqua; */
+position: relative;
+overflow: hidden;
+margin-bottom: 20px;
+cursor: pointer;
+margin: 3px 5px;
+
+
+}
+.karachi_card:hover {
+
+  opacity: 0.8;
+
+}
+.karachi_card_heading,
+.karachi_card_desc{
+margin: 0px;
+padding: 0px;
+padding-left: 13px;
+
+
+}
+.karachi_card_desc {
+padding-top: 15px;}
+
+.karachi_card_heading {
+ font-size: 18px;
+ padding-top: 5px;}
+
+
+
+
+.Main_Card {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+
+}
+.Karachi_img {
+  height: 230px;
+ width: 100%;
+ /* margin-top: 0ch; */
+
+
+
+
+
+}
+.karachi_heart{
+  background-color: #fff;
+box-shadow: 1px 1px 1px #ccc;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  /* z-index: 1; */
+  margin-right: 10px;
+
+
+}
+.karachi_heart{
+  font-size: 29px;
+
+  color: #000;}
+
+  
+
+
+
+
+
+
+
+
+
+
+  
